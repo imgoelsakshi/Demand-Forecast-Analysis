@@ -2,8 +2,6 @@
 
 This project develops machine learning models to improve hourly electricity demand forecasting using historical demand and weather data. Accurate forecasting helps reduce imbalance fees and supports stable power supply operations.
 
----
-
 ## **Overview**
 
 The workflow includes:
@@ -18,14 +16,10 @@ The workflow includes:
 
 All work is implemented in a Google Colab notebook.
 
----
-
 ## **Models**
 
 * **Linear Regression** (baseline for interpretability)
 * **XGBoost / Random Forest** (captures nonlinear patterns and seasonal trends)
-
----
 
 ## **Key Insights**
 
@@ -33,13 +27,9 @@ All work is implemented in a Google Colab notebook.
 * Temperature and humidity refine predictions
 * Calendar effects capture weekday/weekend behavior
 
----
-
 ## **Business Impact**
 
 Improved forecasting can reduce imbalance fees, minimize manual adjustments, and increase operational efficiency.
-
----
 
 ## **Future Work**
 
@@ -47,6 +37,3 @@ Improved forecasting can reduce imbalance fees, minimize manual adjustments, and
 * Test deep learning models (LSTM/Transformers)
 * Add probabilistic forecasting and automated retraining
 
----
-
-I can make it even shorter or create a Japanese version—just tell me!
