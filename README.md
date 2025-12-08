@@ -16,6 +16,11 @@ The workflow includes:
 
 All work is implemented in a Google Colab notebook.
 
+## **Data**
+
+* **Electricity Demand:** Hourly demand for the **Kansai region**
+* **Weather Data:** Hourly observations from multiple cities (e.g., **Osaka, Kobe, Kyoto, Hikone, Wakayama**), merged to create representative regional weather features
+
 ## **Models**
 
 * **Linear Regression** (baseline for interpretability)
